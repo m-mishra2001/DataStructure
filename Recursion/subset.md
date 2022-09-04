@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/60498472/188309191-e2b5046b-e74b-4a00-82ff-a090bba824d0.png)
 
 # Approach
-- Brutforce
+
 ```Java
   class Solution {
     
