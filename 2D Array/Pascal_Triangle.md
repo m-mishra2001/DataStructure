@@ -57,14 +57,16 @@ class Solution {
              
          }
            
-    
+           
+      
        
          return result;
     }
    
 }
+```
 
+### Corner Cases
 
-
-
-
+- when number of Rows =1 return result [[1]]
+- When number of Rows =2 resturn result [[1],[1,1]]
